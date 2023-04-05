@@ -1,0 +1,5 @@
+header{
+  display: flex;
+  flex-direction: column;
+  background-image: url(../src/images/bg-desktop-light.jpg);
+}
